@@ -14,7 +14,7 @@ public class BasamakSayilariToplami {
             number/=10;
             result+=basValue;           
         }
-        System.out.println(result);
+        System.out.print("Basamak sayıları toplamı: "+result);
 
     }
     
