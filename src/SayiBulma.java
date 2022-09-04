@@ -7,7 +7,7 @@ public class SayiBulma {
 
         System.out.print("Kaç tane sayı gireceksiniz: ");
         int sayi=input.nextInt();
-
+        
         int n=1;
         System.out.print(n+". "+"Sayıyı giriniz: ");
         int girdi=input.nextInt();
