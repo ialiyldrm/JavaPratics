@@ -13,6 +13,6 @@ https://github.com/ialiyldrm/JavaOdev
 
 Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
 
-##PatikaDev
+## PatikaDev
 
 [Patika.dev](https://app.patika.dev/)
