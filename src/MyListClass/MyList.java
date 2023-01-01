@@ -1,3 +1,4 @@
+package MyListClass;
 public class MyList<T> {
     private int capacity =10;
     private T[] array;
