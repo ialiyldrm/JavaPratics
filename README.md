@@ -1,6 +1,6 @@
 # JavaOdev
 
-Bu repo [PatikaDev](https://app.patika.dev) Java101 patikasındaki derslerden verilen ödevlerin Java dosyalarını içerir.
+Bu repo [PatikaDev](https://app.patika.dev) Java101 ve Java102 patikasındaki derslerden verilen ödevlerin Java dosyalarını içerir.
 
 ## Installation
 
